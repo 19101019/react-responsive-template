@@ -17,7 +17,7 @@ return(
         <Col className={classes.firstcol} md={6}>
             <Row>
                 <div>
-                  <p>Important stuff here !</p>
+                 
             </div>
             </Row>
         </Col>    

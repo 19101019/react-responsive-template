@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 // import {Container,Row,Col} from 'react-bootstrap';
-import stockillustration from '../Resources/Images/stockillustration.svg';
+import stockillustration from '../Resources/Images/b.gif';
 import Emailsubmit from '../Components/UI/Emailsubmit/Emailsubmit';
 import classes from './Landing.module.css';
 

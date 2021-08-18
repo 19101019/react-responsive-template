@@ -36,7 +36,7 @@ return(
 
 <div className={classes.Container}>
     <div fluid className={classes.navbarcontainer}>
-        <div  className={classes.logocol} ><Link to=""><img src={logo} alt="companay-logo" width="30" height="30" /> <span>tradinghigh.local</span></Link></div>
+        <div  className={classes.logocol} ><Link to=""><img src={logo} alt="companay-logo" width="30" height="30" /> <span></span></Link></div>
         <div  className={classes.navlist}>
             <ul>
                 <li><Link to="/dashboard">Dashboard</Link></li>
